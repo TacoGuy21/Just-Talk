@@ -10,7 +10,7 @@ Credit to codersgyan
 
 # Domains:
 
-https://just-talk.johnbeans.repl.co/
+https://Just-Talk-1.johnbeans.repl.co
 
 https://d9no95-3000.csb.app/
 
