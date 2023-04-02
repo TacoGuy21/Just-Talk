@@ -6,8 +6,6 @@ Credit to codersgyan
 
 Thing I'm trying to do for my class.
 
-Credit to codersgyan
-
 # Domains:
 
 https://Just-Talk-1.johnbeans.repl.co
