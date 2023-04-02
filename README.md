@@ -11,7 +11,7 @@ Thing I'm trying to do for my class.
 
 # Domains:
 
-https://Just-Talk-1.johnbeans.repl.co
+(Please add more yourself)
 
 https://d9no95-3000.csb.app/
 
