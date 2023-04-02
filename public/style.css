@@ -71,3 +71,8 @@ textarea {
     color: #333;
     font-size: 14px;
 }
+body {
+    background-image: url('pexels-karolina-grabowska-7193576.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
