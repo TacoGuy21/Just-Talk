@@ -15,7 +15,7 @@ Thing I'm trying to do for my class.
 
 https://d9no95-3000.csb.app/
 
-https://just-talk.johnbeans.repl.co/ (Outdated domain)
+https://just-talk.johnbeans.repl.co/ (Slightly outdated)
 
 # Showcase:
 
