@@ -11,11 +11,9 @@ Thing I'm trying to do for my class.
 
 # Domains:
 
-(Please add more yourself)
+(Please add more yourself by forking)
 
-https://d9no95-3000.csb.app/ (Up to date)
-
-https://just-talk.johnbeans.repl.co/ (Slightly outdated)
+https://just-talk.johnbeans.repl.co/ 
 
 # Showcase:
 
