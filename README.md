@@ -17,7 +17,7 @@ https://just-talk.johnbeans.repl.co/
 
 # Showcase:
 
-<img width="462" alt="image" src="https://user-images.githubusercontent.com/119009502/229313338-ed83e436-3c1a-4e9d-9a38-017f6c6d3c65.png">
+<img width="958" alt="Screenshot 2023-04-04 054322" src="https://user-images.githubusercontent.com/119009502/229799055-f6e832c2-b96c-426d-858c-b969fcde6a6b.png">
 
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/119009502/229353087-09d6d692-9551-4060-8ee5-0960c6456b75.png">
 
