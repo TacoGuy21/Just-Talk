@@ -11,7 +11,7 @@ Thing I'm trying to do for my class.
 
 # Domains:
 
-(Please add more yourself by forking)
+(Please add more yourself by forking, and clicking this link: https://repl.it/github/Tacogamerman/Just-Talk)
 
 https://just-talk.johnbeans.repl.co/ 
 
