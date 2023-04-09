@@ -22,5 +22,3 @@ https://Just-Talk-2.johnbeans.repl.co
 <img width="958" alt="Screenshot 2023-04-04 054322" src="https://user-images.githubusercontent.com/119009502/229799055-f6e832c2-b96c-426d-858c-b969fcde6a6b.png">
 
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/119009502/229353087-09d6d692-9551-4060-8ee5-0960c6456b75.png">
-
-Thanks Codergyin.
