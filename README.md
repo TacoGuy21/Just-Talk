@@ -1,4 +1,4 @@
-#### Thanks codersgyan
+#### Credit to codersgyan, he made the nodejs in this project.
 
 ## THIS WORKS POORLY ON PHONES AND TABLETS!
 
