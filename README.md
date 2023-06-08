@@ -1,7 +1,3 @@
-
-<img width="620" alt="image" src="https://user-images.githubusercontent.com/119009502/229353169-a82eca9e-344c-4348-a83d-f5b6d5a9696b.png">
-
-
 # 💬 Just Talk 💬
 
 
